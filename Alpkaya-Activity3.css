@@ -1,0 +1,46 @@
+.advertisement
+{
+	width:100px;
+	height:150px; 
+	border-color:black;
+	border-width:2px; 
+	background-color:gray; 
+	color:white;
+	top: 0px;
+	position: absolute;
+	
+}
+.content
+{
+	height: 70%;
+	top:200px;
+	max-width: 70%;
+	margin-left:auto;
+	margin-right: auto;
+}
+.header {
+	display: flex;
+	justify-content: space-between;
+	margin-left:auto;
+	margin-right: auto;
+	max-width: 70%;
+	
+}
+.image
+{
+	max-width: 250px;
+	display: inline-block;
+	float: left;
+
+}
+.image img
+{
+	width: 250px;
+	top: 250px;
+	
+}
+.head{
+	text-align: center;
+	padding-top: 40px;
+}
+
